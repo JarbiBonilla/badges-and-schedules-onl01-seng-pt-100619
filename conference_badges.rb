@@ -18,4 +18,5 @@ def printer(guests)
   batch_badge_creator(guests) do |badges|
     puts badges
   end
+end
   
